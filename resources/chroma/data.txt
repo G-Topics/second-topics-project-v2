@@ -1,0 +1,35 @@
+### Consulta de Producto
+    ¿Cuál es el precio del insecticida M?
+    ¿Tienen disponible el herbicida N?
+    ¿Pueden enviarme un catálogo de productos?
+    ¿Cuál es el tamaño del envase del fertilizante B?
+    ¿Ofrecen descuentos por compra al por mayor?
+
+### Consulta Técnica
+    ¿Cómo se usa el fertilizante líquido C?
+    ¿Cuál es la dosis recomendada del herbicida D para cultivos de maíz?
+    ¿Pueden proporcionarme una ficha técnica del fungicida E?
+    ¿Qué medidas de seguridad debo tomar al aplicar el insecticida F?
+    ¿Cómo almaceno adecuadamente el herbicida G?
+
+### Saludos
+    Buenas noches, ¿podrían ayudarme con una consulta?
+    Hola, necesito información sobre uno de sus productos.
+    Buen día, tengo una duda sobre el uso de un fertilizante.
+    Buenas tardes, quisiera saber más sobre sus servicios.
+
+### Otros
+    ¿Cuál es su política de devoluciones?
+    ¿Tienen servicio de entrega a domicilio?
+    ¿Cómo puedo realizar un pedido en línea?
+    ¿Ofrecen cursos de capacitación en manejo de agroquímicos?
+    ¿Dónde están ubicados?
+
+### Cotizacion
+    Solicito cotización para 50 litros de herbicida H.
+    Necesito una proforma para 100 kg de fertilizante J.
+    ¿Pueden enviarme una cotización para varios productos?
+    Quisiera saber el precio total con envío incluido para el fungicida K.
+    Cotizacion
+    Cotizaciones
+    Proforma
